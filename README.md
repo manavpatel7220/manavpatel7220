@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there, I'm Manav! 👋
 
-<!--
-**manavpatel7220/manavpatel7220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Analyst | SQL | Power BI | Excel | Python**
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 📊
+I'm a passionate **Data Analyst** who loves transforming raw data into meaningful insights. With expertise in **SQL, Power BI, Excel, and Python**, I specialize in data visualization, reporting, and data-driven decision-making.
+
+### 🔥 Skills & Tools
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Databases:** SQL (MySQL, PostgreSQL, SQL Server)
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Excel:** Pivot Tables, VLOOKUP, Power Query
+- **Others:** Data Cleaning, ETL, Dashboards
+
+### 🚀 Featured Projects
+| Project | Description |
+|---------|------------|
+| [📊 Pizza Sales Data Analytics](https://github.com/yourusername/pizza-sales-analysis) | Analyzed pizza sales data using SQL & Power BI |
+| [🏥 Healthcare Lead Workflow Dashboard](https://github.com/yourusername/healthcare-dashboard) | Built an interactive dashboard for hospital lead workflow using Power BI |
+
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manav-patel-7741b4293/) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23fca311?style=for-the-badge)](https://yourportfolio.com)
+
+---
+
+⭐ **Fun Fact:** The best way to predict the future is to analyze the past! 📈
