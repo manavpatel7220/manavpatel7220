@@ -24,7 +24,6 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manav-patel-7741b4293/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23fca311?style=for-the-badge)](https://yourportfolio.com)
 
 ---
 
