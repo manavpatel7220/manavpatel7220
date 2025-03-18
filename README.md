@@ -17,7 +17,7 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 ### 🚀 Featured Projects
 | Project | Description |
 |---------|------------|
-| [📊 Pizza Sales Data Analytics](https://github.com/yourusername/pizza-sales-analysis) | Analyzed pizza sales data using SQL & Power BI |
+| [📊 superstore Insight Dashboard](https://github.com/manavpatel7220/-Superstore-Insights-Dashboard.git) | Analyzed superstore sales data using SQL & Power BI |
 | [🏥 Healthcare Lead Workflow Dashboard](https://github.com/yourusername/healthcare-dashboard) | Built an interactive dashboard for hospital lead workflow using Power BI |
 | [🚗💤 Driver Drowsiness Detection](https://github.com/manavpatel7220/DriverDrawsyness.git) | This project implements a Driver Drowsiness Detection System using OpenCV, MediaPipe, and Pygame. |
 
